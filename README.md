@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7182f0a-a9f3-4d73-a0bb-0cdd2f6da984)# Prediction_of_house_price_in_Boston
+# Prediction_of_house_price_in_Boston
 ## The difference between regression and regularization
 * 回歸（Regression）：
    - Regression is a statistical modeling technique used to predict the relationship between one or more independent variables (or features) and a dependent variable (or target).
